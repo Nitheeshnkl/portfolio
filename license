@@ -1,0 +1,22 @@
+
+---
+
+### 📄 2. `.gitignore` *(for HTML/JS project)*
+
+```gitignore
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm tools)
+node_modules/
+
+# IDE/workspace settings
+.vscode/
+.idea/
+
+# Python environments (if Flask-based)
+.env
+venv/
+__pycache__/
+*.pyc
